@@ -28,5 +28,5 @@ Si la estación de origen se encuentra inactiva o sin bicicletas disponibles, el
 
 ## Resources
 
-- Estaciones BiciMAD: Dentro de la carpeta **Data** en el repositorio.
-- Colegios Públicos Madrid: [Link](https://datos.madrid.es/egob/catalogo/202311-0-colegios-publicos.json)
+- Estaciones BiciMAD: Dentro del repositorio.
+- Colegios Públicos Madrid: [Link.](https://datos.madrid.es/egob/catalogo/202311-0-colegios-publicos.json)
