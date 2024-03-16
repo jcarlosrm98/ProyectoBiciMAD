@@ -30,3 +30,4 @@ Si la estación de origen se encuentra inactiva o sin bicicletas disponibles, el
 
 - Estaciones BiciMAD: Dentro del repositorio.
 - Colegios Públicos Madrid: [Link.](https://datos.madrid.es/egob/catalogo/202311-0-colegios-publicos.json)
+> **Importante!:** Es necesario cambiar la ruta de las estaciones de BiciMAD dentro del código puesto que utiliza la ruta absoluta y no funcionará en otra máquina si su ruta no se cambia. 
