@@ -25,3 +25,8 @@ La terminal devolverá entonces una tabla con los datos obtenidos. Los datos se 
 2) **Destino:** Devuelve los datos de la dirección, el nombre del colegio, el tipo de lugar y la distancia entre los puntos.
 
 Si la estación de origen se encuentra inactiva o sin bicicletas disponibles, el código buscará entre las ubicaciones más cercanas a la estación buscada. Si encuentra alguna que contenga bicicletas, devolverá ésta en su lugar. Si no encuentra ninguna estación cercana disponible, devovlerá una tabla indicando que no existen bicicletas cercanas en la ubicación proporcionada.
+
+## Resources
+
+- Estaciones BiciMAD: Dentro de la carpeta **Data** en el repositorio.
+- Colegios Públicos Madrid: [Link](https://datos.madrid.es/egob/catalogo/202311-0-colegios-publicos.json)
